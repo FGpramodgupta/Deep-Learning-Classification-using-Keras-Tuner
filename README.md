@@ -9,6 +9,6 @@ Compitition link - https://www.kaggle.com/c/digit-recognizer/overview
 
 With accuracy of 99.67 after attempting Different Hyperparameters.
 
-Full Source Code using Keras Tuner - https://github.com/FGpramodgupta/Deep-Learning-Classification-using-Keras-Tuner 
+Kaggle NoteBook - https://www.kaggle.comdeep-learning-standard-image-classification-design
 
-Profile - https://github.com/FGpramodgupta
+Profile - https://www.kaggle.com/pramodgupta92
